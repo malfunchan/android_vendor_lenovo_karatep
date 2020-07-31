@@ -612,7 +612,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/karatep/proprietary/vendor/lib/soundfx/libqcbassboost.so:vendor/lib/soundfx/libqcbassboost.so \
     vendor/lenovo/karatep/proprietary/vendor/lib/soundfx/libqcreverb.so:vendor/lib/soundfx/libqcreverb.so \
     vendor/lenovo/karatep/proprietary/vendor/lib/soundfx/libqcvirt.so:vendor/lib/soundfx/libqcvirt.so \
-    vendor/lenovo/karatep/proprietary/vendor/lib/vendor.display.color@1.0.so:vendor/lib/vendor.display.color@1.0.so \
+#    vendor/lenovo/karatep/proprietary/vendor/lib/vendor.display.color@1.0.so:vendor/lib/vendor.display.color@1.0.so \
     vendor/lenovo/karatep/proprietary/vendor/lib/vendor.display.postproc@1.0.so:vendor/lib/vendor.display.postproc@1.0.so \
     vendor/lenovo/karatep/proprietary/vendor/lib/vendor.qti.gnss@1.0.so:vendor/lib/vendor.qti.gnss@1.0.so \
     vendor/lenovo/karatep/proprietary/vendor/lib/vendor.qti.gnss@1.1.so:vendor/lib/vendor.qti.gnss@1.1.so \
